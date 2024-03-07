@@ -1,6 +1,7 @@
-{
+{data : [{
   name: "Alex",
   surname: "Black",
   age: "36",
   title: "King",
-}
+}]}
+
